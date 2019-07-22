@@ -1,4 +1,4 @@
-flask
-flask_restful
-opencv-python
-gunicorn
+flask==1.1.1
+flask_restful==0.3.7
+opencv-python==4.1.0.25
+gunicorn==19.9.0
