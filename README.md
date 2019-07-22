@@ -1,8 +1,5 @@
-# opencv-flask
-> A **Flask-Application** to dynamically generate images with banners.
----
-![Imgur](https://i.imgur.com/1s3oFQr.png)
-
+# Colony Forming Counter
+> A **Application** to Counting Colonies Bacteria in petri dish from collage in chemical engineering and Biology.
 ---
 
 ## Contents
@@ -61,14 +58,8 @@
 **Yay !**
 
 > Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-
-![Imgur](https://i.imgur.com/1s3oFQr.png)
-
-
 ## Powered By
-
-![](https://static1.squarespace.com/static/5527ffcbe4b0a2033d4a2e77/5528006ce4b0303da7f6ec62/55280091e4b0dd4fb412934a/1428685502836/?format=500w)
-
+Dicky Pradana
+---
 ## License
-
 > MIT
