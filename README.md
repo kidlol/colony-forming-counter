@@ -1,6 +1,5 @@
 # Colony Forming Counter
 > A **Application** to Counting Colonies Bacteria in petri dish from collage in chemical engineering and Biology.
----
 
 ## Contents
 
@@ -10,7 +9,6 @@
 * [Powered By](#powered-by)
 * [License](#license)
 
----
 
 ## Getting Started
 
@@ -23,21 +21,23 @@
 ![](https://pythonspot-9329.kxcdn.com/wp-content/uploads/2015/08/flask-logo.png)
 ![](https://prateekvjoshi.files.wordpress.com/2015/10/1-main.png)
 
----
 
 ## Requirements
 
 * **Flask**
 
-`pip install Flask`
+```pip install Flask`
+```
 
 * **Werkzeug**
 
-`pip install Werkzeug`
+```pip install Werkzeug`
+```
 
 * **OpenCV**
 
-`pip install opencv-python`
+```pip install opencv-python`
+```
 
 ## Usage
 
@@ -53,13 +53,10 @@
 
 * Fire up the terminal, and execute this piece of snippet :
 
-`python app.py`
+```python app.py```
 
 **Yay !**
 
 > Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ## Powered By
-Dicky Pradana
----
-## License
-> MIT
+> Dicky Pradana
